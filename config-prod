@@ -1,1 +1,2 @@
-
+zuul.routes.spring-cloud-provider=/user-provider/**
+zuul.routes.spring-cloud-consumer=/user-consumer/**
